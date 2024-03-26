@@ -1,6 +1,7 @@
 package com.weather.api.services.impl;
 
 
+import com.weather.api.exceptions.InvalidRequestException;
 import com.weather.api.externalapis.RapidApiClient;
 import com.weather.api.externalapis.RapidApiClientHeader;
 import com.weather.api.externalapis.WeatherServiceClient;
@@ -22,14 +23,19 @@ public class WeatherServiceImpl implements WeatherService {
           try {
             return    rapidApiClient.GetForecastSummaryByLocationName(location, RapidApiClientHeader.apiKey,RapidApiClientHeader.apiHost).getBody();
           }catch (RuntimeException ex){
-              throw  new RuntimeException("Invalid Request ");
+              throw  new InvalidRequestException("Invalid Request");
           }
 
     }
 
     @Override
     public Object GetWeatherForeCastByLocationAndDay(String location, int day) {
-         return weatherServiceClient.getWeatherForecastByLocation(WeatherServiceClientResources.key,location,day).getBody();
+        try {
+            return weatherServiceClient.getWeatherForecastByLocation(WeatherServiceClientResources.key,location,day).getBody();
+        }catch (RuntimeException ex){
+            throw  new InvalidRequestException("Invalid Request");
+        }
+
 
     }
 

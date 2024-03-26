@@ -41,7 +41,7 @@ function SearchBar({ setWeatherData }) {
         />
         <Input
           type="text"
-          placeholder="Search..."
+          placeholder="search city name..."
           borderWidth="1px"
           borderRadius="md"
           value={serach}
