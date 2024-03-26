@@ -10,7 +10,7 @@ The project involves developing a Spring Boot server in Java and integrating the
 1. **Secure Authentication:** Header-based authentication.
 2. **Rapid API Integration:**  Seamless integration with Rapid API for accurate weather data.
 3. **RESTful Endpoint:** Expose endpoints for summary and hourly weather forecasts.
-4. **JSON Respons:* Deliver weather forecast information in JSON format for easy consumption.
+4. **JSON Respons:** Deliver weather forecast information in JSON format for easy consumption.
 
 ## Tech-Stacks:
     - Frontend: JavaScript , React , Chakra UI
