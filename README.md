@@ -79,4 +79,4 @@ my-react-app/
 
 
 ## Dashboard (Frontend)
-<img src="https://github.com/rutwik-kumbhar/IntentBI-Assignment-1/blob/main/Dashboard.png" alt="Alt Text" width="700"/>
+<img src="https://github.com/rutwik-kumbhar/Dice_Task_2_Weather_API/blob/main/weather-app.png" alt="Alt Text" width="700"/>
