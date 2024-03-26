@@ -17,7 +17,7 @@ function SearchBar({ setWeatherData }) {
     setLoading(true);
     try {
       const response = await fetch(
-        `https://dice-weather-backend-production.up.railway.app//api/v1/weather/${serach}`
+        `https://dice-weather-backend-production.up.railway.app/api/v1/weather/${serach}`
       );
       const data = await response.json();
       setWeatherData(data);
