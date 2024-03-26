@@ -1,6 +1,6 @@
 # Dice_Task_2_Weather_API
 
-## Project Presention [Video](https://drive.google.com/file/d/14cgYyxBzHAS_O1RqzXNCg-gGYFHguIuJ/view?usp=sharing):
+## Project Presention [https://drive.google.com/file/d/1kQlocLDAhK4KOCpogZwGWkNnVXQhgBbY/view?usp=sharing):
 
 ## Description
 The project involves developing a Spring Boot server in Java and integrating the Weather API from Rapid API. It will expose two RESTful APIs for retrieving weather forecast summaries and hourly details of any city, with header-based authentication using randomly generated keys.
