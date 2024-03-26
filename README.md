@@ -1,5 +1,7 @@
 # Dice_Task_2_Weather_API
 
+# Open Waether Webapp [Click Me](https://weather-dice.netlify.app/)
+
 ## Project Presention  [Video](https://drive.google.com/file/d/1kQlocLDAhK4KOCpogZwGWkNnVXQhgBbY/view?usp=sharing):
 
 ## Description
