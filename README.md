@@ -46,13 +46,11 @@ Weather-Api-1-backend/
       ├─ WeatherApiApplication
 </pre>
 
-## Postman API [Documention](https://bold-comet-967671.postman.co/workspace/2b9819d1-5f1d-4df2-8ceb-19198fc8a5ee/documentation/24834453-ff7e90a2-9481-465a-a21a-5c9db56dda46)
-
 ## Postman API [JSON](https://github.com/rutwik-kumbhar/IntentBI-Assignment-1/blob/main/Intentbi-Assignment-1.postman_collection.json)
 
 ## Frontend Setup Follow Following Step  
- - Clone Github Respsotory  - Git Clone https://github.com/rutwik-kumbhar/IntentBI-Assignment-1.git
- - Go to Inside Project folder - cd assignment1-frontend
+ - Clone Github Respsotory  - Git Clone https://github.com/rutwik-kumbhar/Dice_Task_2_Weather_API
+ - Go to Inside Project folder - cd weather-app-frontend
  - Run command - npm install 
  - Run Project - yarn run dev
  - open give url -  http://127.0.0.1:5173/
@@ -68,10 +66,7 @@ my-react-app/
 │
 ├── src/
 │   ├── components/
-│   ├── api/
-│   ├── assets/
-│   ├── pages/
-│
+│   
 │   ├── App.jsx
 │   └── index.css 
     └── main.jsx
