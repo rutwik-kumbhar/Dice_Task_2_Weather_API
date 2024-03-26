@@ -48,6 +48,23 @@ Weather-Api-1-backend/
 
 ## Postman API Collection [JSON](https://github.com/rutwik-kumbhar/Dice_Task_2_Weather_API/blob/main/Dice-Weather-Services.postman_collection.json)
 
+## Backend Deployment Plarform
+   - https://railway.app/
+
+## Backend Deployment URL
+    - https://dice-weather-backend-production.up.railway.app/
+
+## Backend API End Point 
+
+    -Forecast Summary By Location Name
+       - Method @GetMappinng 
+       - End Point --> https://dice-weather-backend-production.up.railway.app/api/v1/weather/rapid/berlin
+       
+    -Hourly Forecast By Location Name
+       - Method @GetMappinng 
+       - End Point --> https://dice-weather-backend-production.up.railway.app/api/v1/weather/berlin
+    
+
 ## Frontend Setup Follow Following Step  
  - Clone Github Respsotory  - Git Clone https://github.com/rutwik-kumbhar/Dice_Task_2_Weather_API
  - Go to Inside Project folder - cd weather-app-frontend
