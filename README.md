@@ -46,7 +46,7 @@ Weather-Api-1-backend/
       ├─ WeatherApiApplication
 </pre>
 
-## Postman API [JSON](https://github.com/rutwik-kumbhar/Dice_Task_2_Weather_API/blob/main/Dice-Weather-Services.postman_collection.json)
+## Postman API Collection [JSON](https://github.com/rutwik-kumbhar/Dice_Task_2_Weather_API/blob/main/Dice-Weather-Services.postman_collection.json)
 
 ## Frontend Setup Follow Following Step  
  - Clone Github Respsotory  - Git Clone https://github.com/rutwik-kumbhar/Dice_Task_2_Weather_API
