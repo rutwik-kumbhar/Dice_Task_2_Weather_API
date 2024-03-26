@@ -1,10 +1,10 @@
 package com.weather.api.services.impl;
 
 
-import com.weather.api.external.services.RapidApiClient;
-import com.weather.api.external.services.RapidApiClientHeader;
-import com.weather.api.external.services.WeatherServiceClient;
-import com.weather.api.external.services.WeatherServiceClientResources;
+import com.weather.api.externalapis.RapidApiClient;
+import com.weather.api.externalapis.RapidApiClientHeader;
+import com.weather.api.externalapis.WeatherServiceClient;
+import com.weather.api.externalapis.WeatherServiceClientResources;
 import com.weather.api.services.WeatherService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;

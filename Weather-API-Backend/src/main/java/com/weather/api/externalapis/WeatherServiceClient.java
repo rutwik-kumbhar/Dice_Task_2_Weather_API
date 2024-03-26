@@ -1,4 +1,4 @@
-package com.weather.api.external.services;
+package com.weather.api.externalapis;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;

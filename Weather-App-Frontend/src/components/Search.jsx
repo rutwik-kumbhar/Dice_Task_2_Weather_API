@@ -22,6 +22,7 @@ function SearchBar({ setWeatherData }) {
       const data = await response.json();
       setWeatherData(data);
     } catch (error) {
+        alert("City not found!");
       console.log(error);
     }
     setLoading(false);

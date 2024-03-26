@@ -1,4 +1,4 @@
-package com.weather.api.external.services;
+package com.weather.api.externalapis;
 
 public class RapidApiClientHeader {
 
