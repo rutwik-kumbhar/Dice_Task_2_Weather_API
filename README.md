@@ -49,10 +49,10 @@ Weather-Api-1-backend/
 ## Postman API Collection [JSON](https://github.com/rutwik-kumbhar/Dice_Task_2_Weather_API/blob/main/Dice-Weather-Services.postman_collection.json)
 
 ## Backend Deployment Plarform
-   - https://railway.app/
+    https://railway.app/
 
 ## Backend Deployment URL
-    - https://dice-weather-backend-production.up.railway.app/
+     https://dice-weather-backend-production.up.railway.app/
 
 ## Backend API End Point 
 
@@ -94,10 +94,10 @@ my-react-app/
 </pre>
 
 ## Frontend Deployment Plarform
-   - https://www.netlify.com/
+     https://www.netlify.com/
 
 ## Frontend Deployment URL
-    - https://weather-dice.netlify.app/
+     https://weather-dice.netlify.app/
     
 ## Dashboard (Frontend)
 <img src="https://github.com/rutwik-kumbhar/Dice_Task_2_Weather_API/blob/main/weather-app.png" alt="Alt Text" width="700"/>
