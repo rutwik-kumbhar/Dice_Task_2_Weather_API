@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "d4fa8b36-9418-4e6d-a13b-58891e5bcc08",
+		"name": "Dice-Weather-Services",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24834453"
+	},
+	"item": [
+		{
+			"name": "weather",
+			"item": [
+				{
+					"name": "Get Forecast Summary By Location Name",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "http://localhost:8080/api/v1/weather/rapid/berlin",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"weather",
+								"rapid",
+								"berlin"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Forecast Summary",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/api/v1/weather/berlin",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"v1",
+								"weather",
+								"berlin"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
