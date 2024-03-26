@@ -20,7 +20,7 @@ The project involves developing a Spring Boot server in Java and integrating the
 - Node JS
 - npm or yarn
 - Java 8 or higher
-- MySQL Workbench (Database)
+
   
 ## Backend Setup 
 ### Dependency:
@@ -46,13 +46,13 @@ Weather-Api-1-backend/
       ├─ WeatherApiApplication
 </pre>
 
-## Postman API [JSON](https://github.com/rutwik-kumbhar/IntentBI-Assignment-1/blob/main/Intentbi-Assignment-1.postman_collection.json)
+## Postman API [JSON](https://github.com/rutwik-kumbhar/Dice_Task_2_Weather_API/blob/main/Dice-Weather-Services.postman_collection.json)
 
 ## Frontend Setup Follow Following Step  
  - Clone Github Respsotory  - Git Clone https://github.com/rutwik-kumbhar/Dice_Task_2_Weather_API
  - Go to Inside Project folder - cd weather-app-frontend
  - Run command - npm install 
- - Run Project - yarn run dev
+ - Run Project - npm run dev
  - open give url -  http://127.0.0.1:5173/
 
 ## Frontend Directory Structure
