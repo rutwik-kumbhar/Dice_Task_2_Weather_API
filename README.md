@@ -37,7 +37,7 @@ The project involves developing a Spring Boot server in Java and integrating the
 <pre> 
 Weather-Api-1-backend/ 
    ├─ src/
-       ├─ com.parking/ 
+       ├─ com.dice/ 
           ├─ controllers
           ├─ exceptions
           ├─ externalapis
